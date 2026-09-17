@@ -1,0 +1,12 @@
+{
+  "name": "Shopping List",
+  "short_name": "Shopping List",
+  "description": "A shared shopping list that sorts items by the best store to buy them at.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#f5f5f7",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
